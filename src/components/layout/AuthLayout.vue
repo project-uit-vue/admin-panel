@@ -1,13 +1,11 @@
 <template>
-  <v-main></v-main>
+  <div></div>
 </template>
 
 <script>
 export default {
-    name: 'Component'
+  name: 'AuthLayout'
 }
 </script>
 
-<style>
-
-</style>
+<style></style>
